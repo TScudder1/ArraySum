@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mords
+ *
+ */
+module ArraySum {
+}
